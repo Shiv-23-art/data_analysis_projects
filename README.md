@@ -8,13 +8,13 @@ This repository contains two end-to-end data analysis and dashboarding projects 
 
 ## 🚀 Projects Included
 
-### 🔹 [1. E-Commerce Return Rate Analysis](./Project_1_E-Commerce_Return_Analysis)
+### 🔹 [1. E-Commerce Return Rate Analysis]
 
 - Analyzed return behavior, top return reasons, and financial impact
 - Identified high-return categories and payment/shipping patterns
 - Delivered insights using Power BI dashboard
 
-### 🔹 [2. Tekecom Customer Churn & Segmentation Analysis](./Project_2_Customer_Churn_Analysis)
+### 🔹 [2. Tekecom Customer Churn & Segmentation Analysis]
 
 - Created a churn score and segmented customers into loyalty/risk groups
 - Visualized trends in churn vs tenure, contracts, payments
