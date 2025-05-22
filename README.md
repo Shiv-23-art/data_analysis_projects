@@ -37,7 +37,6 @@ Each project folder includes:
 
 - Jupyter notebook or SQL files
 - Power BI dashboard export (PDF/PNG)
-- Cleaned datasets
 - Project-specific `README.md`
 
 ---
